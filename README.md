@@ -1,7 +1,7 @@
-webpack
+JavaScript 모듈화 도구
 ========================
 
-link
+webpack
 ---------------
 * http://webpack.github.io/
 * http://d2.naver.com/helloworld/0239818
