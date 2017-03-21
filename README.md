@@ -18,4 +18,4 @@ webpack2
 * https://www.zerocho.com/category/Javascript/post/58aa916d745ca90018e5301d
 * https://yoiyoy.gitbooks.io/dev/content/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.html
 * https://github.com/FEDevelopers/tech.description/wiki/Webpack2%EC%99%80-%EB%AA%A8%EB%93%88%EB%B2%88%EB%93%A4%EB%A7%81%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%B4%88%EB%B3%B4%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C
-
+* https://perfectacle.github.io/2017/03/12/webpack2-tree-shaking/ (트리쉐이킹)
